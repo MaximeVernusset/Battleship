@@ -1,0 +1,25 @@
+Bienvenue dans Battleship soldat !
+
+Votre mission consiste a couler la flotte ennemie en usant de la puissance de feu de la notre !
+
+Vous pourrez effectuer une action au choix par tour :
+  - avancer un bateau
+  - pivoter un bateau
+  - tirer vers la flotte ennemie
+	
+A chaque action, vous devrez selectionner un bateau en entrant les coordonnes de l'une des cases le representant
+sur la grille (lettre puis numero).
+
+Chaque bateau ne peut se deplacer que d'une case par tour.
+Les bateaux pivotent en un tour sauf le Cuirasse, qui en raison de sa taille, met deux tours a pivoter.
+La puissance de tir varie selon le bateau choisi :
+  - Sous-marin : il tire sur un rayon de 1 case. Il ne peut être abattu que par un sous-marin adverse.
+    Vous en disposez de 4, representes par les lettres ss.
+  - Destroyer : il tire sur un rayon de 1 case. Vous en disposez de 3, representes par les lettres dd.
+    Le premier tir de chaque Destroyer est une fusee eclairante devoilant temporairement une zone de 4x4 cases
+    chez l'adversaire. 
+  - Croiseur : il tire sur un rayon de 4 cases. Vous en disposez de 2, representes par les lettres xx.
+  - Cuirasse : il tire sur un rayon de 9 cases ! Vous en disposez de 1, represente par les lettres cc.
+La proue de chaque bateau est representee par des majuscules.
+
+Enfin, vous avez la possibilite de quitter la bataille en cours et la reprendre plus tard !

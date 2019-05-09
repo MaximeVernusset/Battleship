@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1490619038 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\console.cpp
+	"console.h"
+
+1490753425 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\console.h
+	<allegro.h>
+	<winalleg.h>
+	<conio.h>
+	<iostream>
+	<ostream>
+	<sstream>
+
+1490760668 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\main.cpp
+	"jeu.h"
+
+1490760519 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	"console.h"
+	"joueur.h"
+	"grille.h"
+	"son.h"
+
+1490792343 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\jeu.cpp
+	"jeu.h"
+
+1490791576 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\bateaux.cpp
+	"bateaux.h"
+
+1490760354 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\bateaux.h
+	<iostream>
+	<vector>
+	<time.h>
+	<math.h>
+	"console.h"
+	"son.h"
+
+1489706769 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\ressources.rc
+
+1490792385 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\joueur.h
+	<vector>
+	<string>
+	"bateaux.h"
+	"grille.h"
+
+1490792114 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\joueur.cpp
+	"joueur.h"
+
+1490744477 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\grille.cpp
+	"grille.h"
+
+1490760519 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\grille.h
+	<vector>
+	<string>
+	<ostream>
+	<sstream>
+	"bateaux.h"
+	"console.h"
+
+1490477633 source:d:\documents\ece\ing3\informatique\battleship\bateaux.cpp
+	"bateaux.h"
+
+1490477633 d:\documents\ece\ing3\informatique\battleship\bateaux.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<time.h>
+	"console.h"
+
+1490464615 d:\documents\ece\ing3\informatique\battleship\console.h
+	<iostream>
+	<ostream>
+	<sstream>
+
+1490464615 source:d:\documents\ece\ing3\informatique\battleship\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1490464615 source:d:\documents\ece\ing3\informatique\battleship\grille.cpp
+	"grille.h"
+
+1490464615 d:\documents\ece\ing3\informatique\battleship\grille.h
+	<vector>
+	<string>
+	<ostream>
+	<sstream>
+	"bateaux.h"
+	"console.h"
+
+1490478845 source:d:\documents\ece\ing3\informatique\battleship\jeu.cpp
+	"jeu.h"
+
+1490477634 d:\documents\ece\ing3\informatique\battleship\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"console.h"
+	"joueur.h"
+	"grille.h"
+
+1490478845 d:\documents\ece\ing3\informatique\battleship\joueur.h
+	<vector>
+	<string>
+	"bateaux.h"
+	"grille.h"
+
+1490464615 source:d:\documents\ece\ing3\informatique\battleship\main.cpp
+	"jeu.h"
+
+1489737181 source:d:\documents\ece\ing3\informatique\battleship\ressources.rc
+
+1490478845 source:d:\documents\ece\ing3\informatique\battleship\joueur.cpp
+	"joueur.h"
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\bateaux.cpp
+	"bateaux.h"
+
+1490700024 d:\documents\ece\ing3\informatique\battleship 2\bateaux.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<time.h>
+	<math.h>
+	"console.h"
+
+1490700024 d:\documents\ece\ing3\informatique\battleship 2\console.h
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<ostream>
+	<sstream>
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\console.cpp
+	"console.h"
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\grille.cpp
+	"grille.h"
+
+1490700024 d:\documents\ece\ing3\informatique\battleship 2\grille.h
+	<vector>
+	<string>
+	<ostream>
+	<sstream>
+	"bateaux.h"
+	"console.h"
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\joueur.cpp
+	"joueur.h"
+
+1490700024 d:\documents\ece\ing3\informatique\battleship 2\joueur.h
+	<vector>
+	<string>
+	"bateaux.h"
+	"grille.h"
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\main.cpp
+	"jeu.h"
+
+1490700024 d:\documents\ece\ing3\informatique\battleship 2\jeu.h
+	<iostream>
+	<vector>
+	<string>
+	"console.h"
+	"joueur.h"
+	"grille.h"
+
+1490700024 source:d:\documents\ece\ing3\informatique\battleship 2\ressources.rc
+
+1490758989 c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\son.h
+	"console.h"
+
+1490753829 source:c:\users\maxla\documents\ecole\ing 3\semestre 2\informatique\projet poo\battleship\son.cpp
+	"son.h"
+
